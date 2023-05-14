@@ -1,7 +1,7 @@
 # E-Commerce
 
 Walkthrough video link
-https://drive.google.com/file/d/1gi6UqeP0wPfl_G9gVzF3ZMkZNLK05vno/view
+https://drive.google.com/file/d/1ipuneL99VhKzmC57H60hUo5UKYzB1orv/view
 
 ## Description
 
